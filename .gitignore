@@ -1,0 +1,18 @@
+# 운영체제와 편집기
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 로컬 환경과 의존성
+.venv/
+node_modules/
+
+# 캐시와 빌드 결과
+__pycache__/
+*.py[cod]
+*.class
+*.o
+*.exe
+a.out
