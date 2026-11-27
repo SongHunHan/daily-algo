@@ -32,6 +32,7 @@
 | 42748 | [K번째수](programmers/42748/README.md) | 정렬 · 슬라이싱 | [Python](programmers/42748/solution.py) |
 | 42840 | [모의고사](programmers/42840/README.md) | 완전탐색 · 나머지 연산 | [Python](programmers/42840/solution.py) |
 | 42862 | [체육복](programmers/42862/README.md) | 탐욕법 · 집합 | [Python](programmers/42862/solution.py) |
+| 43165 | [타겟 넘버](programmers/43165/README.md) | 깊이 우선 탐색(DFS) · 재귀 | [Python](programmers/43165/solution.py) |
 
 ## 기록 방식
 
